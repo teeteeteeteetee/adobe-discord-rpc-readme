@@ -237,3 +237,5 @@ Project Link: [https://github.com/teeteeteeteetee/adobe-discord-rpc](https://git
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[discord-shield]: https://img.shields.io/discord/818827893991800842
+[discord-url]: https://discord.gg/RGtxbuFtzb
