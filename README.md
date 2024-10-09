@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/teeteeteeteetee/adobe-discord-rpc">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://pbs.twimg.com/media/GYv-dVdXMAAi3zh?format=jpg&name=large" alt="Logo" width="256" height="256">
   </a>
 
   <h3 align="center">Adobe Discord RPC</h3>
